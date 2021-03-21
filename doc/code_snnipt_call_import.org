@@ -1,0 +1,48 @@
+Don't anylysis any more. Just for backup.
+
+#+BEGIN_SRC 
+                        LAB_00007f38                                    XREF[1]:     00007ee0(j)  
+00007f38 a7 f1 a2 04     sub.w      r4,r7,#0xa2
+00007f3c 2b 94           str        r4,[sp,#local_1bc]
+00007f3e 2b 98           ldr        param_1,[sp,#local_1bc]
+00007f40 0e 21           mov        param_2,#0xe
+00007f42 25 98           ldr        param_1=>DAT_0008401c,[sp,#local_1d4]                    = 2Bh    +
+00007f44 04 23           mov        param_4,#0x4
+00007f46 26 9a           ldr        param_3=>DAT_0008402a,[sp,#local_1d0]                    = 08h
+00007f48 00 94           str        r4,[sp,#0x0]=>local_268
+                        是因为这里方法里面有stack check。导致分析为function override bala
+00007f4a 78 f0 7f f8     bl         look_like_some_check_or_decrypt                          你没有return吗
+                        -- Flow Override: CALL_RETURN (CALL_TERMINATOR)
+#+END_SRC
+
+* how param_1 calculate
+
+00007f42 25 98           ldr        param_1=>DAT_0008401c,[sp,#local_1d4]                    = 2Bh    +
+- 0x0000000000000000:  25 98    ldr r0, [sp, #0x94]
+
+000075ec 25 90           str        param_1=>DAT_0008401c,[sp,#local_1d4]                    = 2Bh    +
+- 0x0000000000000000:  25 90    str r0, [sp, #0x94]
+
+000075e8 02 eb 09 00     add.w      param_1,param_3,r9
+000075da 4c ce           ldmia      r6,{ param_3, param_4, r6 }=>L6zI1cP2nS7jJ2fD0fW[8]      = null
+000075ae 05 f1 08 06     add.w      r6,r5,#0x8
+0000757e 0d 68           ldr        r5,[param_2,#0x0]=>->L6zI1cP2nS7jJ2fD0fW                 = 0009f0c0
+00007568 79 44           add        param_2,pc
+0000755e f1 49           ldr        param_2,[DAT_00007924]                                   = 00087838h
+-0000755e:  F1 49    ldr r1, [pc, #0x3c4]
+
+
+[[[pc + #0x3c4] + pc] + 0x8 + 0x8]
+[[[0x0000755e + 2 + #0x3c4] + pc] + 0x8 + 0x8]
+
+# [[[0x0000755e + 2 + #0x3c4] + 0x00007568 + 2] + 0x8 + 0x8]
+
+
+[pc + #0x3c4]
+[0x7924] = 0x87838
+
+pc + 0x87838 = 0x8eda0
+
+[0x8eda0, 0] = 0x000a152c
+0x000a152c + 8 = 0xa1534
+[0xa1534 + 0x8] = [0xa153c] = 

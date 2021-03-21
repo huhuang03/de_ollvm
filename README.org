@@ -1,0 +1,49 @@
+* TODOS
+** how am_graph judge to add some block into one node?
+When this and next have no other branch.
+
+* Run
+#+BEGIN_SRC python
+python3 -m src.remove_rubbish_code
+python3 -m src.remove_ollvm
+#+END_SRC
+
+** Or debug
+#+BEGIN_SRC
+ipython3
+from src.remove_ollvm import *
+#+END_SRC
+
+* Links
+https://github.com/programa-stic/barf-project
+
+https://github.com/angr/angr
+
+https://www.keystone-engine.org/docs/
+
+https://github.com/keystone-engine/keystone
+
+https://docs.angr.io/
+
+[[https://github.com/cq674350529/deflat][Look like the bloger's github]]
+[[https://android.googlesource.com/platform/bionic/+/f0ec06b/libc/include/sys/linux-syscalls.h][Android linux-syscall.h]]
+[[https://www.keil.com/support/man/docs/armasm/armasm_dom1359731161338.htm][asm condition]]
+[[https://stackoverflow.com/questions/10261300/invalid-constant-after-fixup][strange arm immediate value]]
+[[http://events19.linuxfoundation.org/wp-content/uploads/2017/12/Modern-Strace-Dmitry-Levin-BaseALT.pdf][Modern strace, openat(-100)]]
+
+[[file://Volumes/wd/Previous Content/source/aosp/bionic/libc/arch-arm/bionic/syscall.S][sys call]]
+[[file:///Volumes/wd/Previous Content/source/aosp/bionic/libc/kernel/uapi/asm-arm/asm/unistd-common.h][systm call table]]
+
+* Note
+satisfiability modulo theories (SMT)
+
+** the suspiciously function
+At 0x7f4a, called the suspiciously function. 我将使用ida去看看是不是这个方法有做检测。
+
+But can I use ida to debug .init_0?? After did some research. I find that need an ro.debuggable=1's device.
+
+So wait.
+
+
+
+00007f9c how to patch??

@@ -1,0 +1,513 @@
+30029 Function sub_754d [30029]
+  Syscall: False
+  SP difference: 0
+  Has return: True
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x754d, 0x83e9, 0x8469, 0x83ed, 0x8565, 0x846d, 0x84c5, 0x83f1, 0x875f, 0x856b, 0x8653, 0x8473, 0x86cb, 0x84cb, 0x85db, 0x83f7, 0x789f, 0x876d, 0x777b, 0x8579, 0x77f1, 0x8661, 0x76c9, 0x8481, 0x783f, 0x86d9, 0x7723, 0x84d9, 0x77bf, 0x85e9, 0x7683, 0x8405, 0x7cd7, 0x78ad, 0x7647, 0x877b, 0x7b7d, 0x7789, 0x7981, 0x8587, 0x7c3d, 0x77ff, 0x79ff, 0x866f, 0x7ae1, 0x76d7, 0x78f5, 0x848f, 0x7c67, 0x784d, 0x7a23, 0x86e7, 0x7b31, 0x7731, 0x7935, 0x84e7, 0x7bcb, 0x77cd, 0x79c9, 0x85f7, 0x7a5f, 0x7691, 0x78d1, 0x8413, 0x83bd, 0x7ce5, 0x812b, 0x78bb, 0x7fbb, 0x7655, 0x87d3, 0x82eb, 0x7b8b, 0x808b, 0x7797, 0x81ef, 0x798f, 0x7e2f, 0x8595, 0x834b, 0x7c4b, 0x80e3, 0x780d, 0x823b, 0x7a0d, 0x7e9f, 0x867d, 0x828b, 0x7aef, 0x8015, 0x76e5, 0x816f, 0x7903, 0x7dbd, 0x849d, 0x839b, 0x7c75, 0x80ff, 0x785b, 0x8263, 0x7a31, 0x7f9d, 0x86f5, 0x82b7, 0x7b3f, 0x8065, 0x773f, 0x818d, 0x7943, 0x7dfb, 0x84f5, 0x8329, 0x7bd9, 0x80bb, 0x77db, 0x8223, 0x79d7, 0x7e61, 0x8605, 0x8277, 0x7a6d, 0x800b, 0x769f, 0x8143, 0x78df, 0x7d45, 0x8421, 0x7cf3, 0x78c9, 0x7663, 0x882b, 0x82ef, 0x7b99, 0x77a5, 0x799d, 0x7e57, 0x85a3, 0x7c59, 0x781b, 0x7a1b, 0x7ea5, 0x7ee1, 0x868b, 0x82d3, 0x82a3, 0x76f3, 0x7911, 0x7dc7, 0x84ab, 0x7c83, 0x8173, 0x8111, 0x7869, 0x7a3f, 0x7fb5, 0x8703, 0x82bf, 0x7b4d, 0x774d, 0x8193, 0x7951, 0x8267, 0x7e01, 0x8503, 0x7be7, 0x77e9, 0x79e5, 0x7e79, 0x8613, 0x7a7b, 0x76ad, 0x81cf, 0x78ed, 0x7d6d, 0x842d, 0x827b, 0x8835, 0x7ebf, 0x7f39, 0x86b9, 0x84b7, 0x7871, 0x8711, 0x81ad, 0x7e41, 0x8511, 0x7ed5, 0x7e83, 0x7a91, 0x8439, 0x7ecb, 0x7f4f, 0x86c1, 0x81b9, 0x7f7b, 0x7aa5, 0x7f63]
+  Calling convention: None
+31027 Function sub_7933 [31027]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x7933]
+  Calling convention: None
+31484 Function sub_7afc [31484]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x7afc, 0x7b00, 0x7b04]
+  Calling convention: None
+31499 Function sub_7b0b [31499]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x7b0b, 0x7b29, 0x7b23]
+  Calling convention: None
+32276 Function sub_7e14 [32276]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x7e14, 0x7e18, 0x7e1c, 0x7e28]
+  Calling convention: None
+32483 Function sub_7ee3 [32483]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x7ee3]
+  Calling convention: None
+33056 Function sub_8120 [33056]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8120]
+  Calling convention: None
+33127 Function sub_8167 [33127]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8167]
+  Calling convention: None
+33159 Function sub_8187 [33159]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8187]
+  Calling convention: None
+34224 Function sub_85b0 [34224]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x85b0]
+  Calling convention: None
+34232 Function sub_85b8 [34232]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x85b8, 0x85bc, 0x85c0, 0x85c4, 0x85c8, 0x85cc, 0x85d0, 0x85d4]
+  Calling convention: None
+34336 Function sub_8620 [34336]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8620]
+  Calling convention: None
+34344 Function sub_8628 [34344]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8628, 0x862c]
+  Calling convention: None
+34351 Function sub_862f [34351]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x862f]
+  Calling convention: None
+34684 Function sub_877c [34684]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x877c, 0x8780, 0x8784, 0x8788, 0x878c, 0x8790, 0x8794, 0x8798, 0x879c, 0x87a0, 0x87a4, 0x87a8, 0x87ac, 0x87b0, 0x87b4, 0x87b8, 0x87bc, 0x87c0, 0x87c4, 0x87c8, 0x87cc, 0x87d0, 0x87d8, 0x87dc, 0x87e0, 0x87e4, 0x87e8, 0x87ec, 0x87f0, 0x87f4, 0x87f8, 0x87fc, 0x8800, 0x8804, 0x8808, 0x880c, 0x8810, 0x8814, 0x8818, 0x881c, 0x8820, 0x8824, 0x8828]
+  Calling convention: None
+34900 Function sub_8854 [34900]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8854, 0x8858, 0x8864]
+  Calling convention: None
+34931 Function sub_8873 [34931]
+  Syscall: False
+  SP difference: 0
+  Has return: True
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8873, 0x89a9, 0x88e9, 0x8ca1, 0x89b7, 0x8ab5, 0x88f7, 0x8e83, 0x8ca7, 0x8d89, 0x89bd, 0x8e11, 0x8abb, 0x8d19, 0x8905, 0x92e3, 0x8e91, 0x910b, 0x8cb5, 0x91f3, 0x8d97, 0x901b, 0x89cb, 0x9269, 0x8e1f, 0x9093, 0x8ac9, 0x917f, 0x8d27, 0x8f0f, 0x890b, 0x9a29, 0x92f1, 0x977f, 0x8e9f, 0x98e9, 0x9119, 0x961b, 0x8cc3, 0x997b, 0x9201, 0x96ef, 0x8da5, 0x9895, 0x9029, 0x9557, 0x89d9, 0x99c9, 0x9277, 0x9743, 0x8e2d, 0x98d7, 0x90a1, 0x95c5, 0x8ad7, 0x9931, 0x918d, 0x9681, 0x8d35, 0x97c1, 0x8f1d, 0x9361, 0x8919, 0xa38b, 0x9a37, 0x9f3d, 0x92ff, 0xa1a5, 0x978d, 0x9ca9, 0x8ead, 0xa251, 0x98f7, 0x9dfb, 0x9127, 0xa061, 0x9629, 0x9b77, 0x8cd1, 0xa2e9, 0x9989, 0x9e5f, 0x920f, 0xa101, 0x96fd, 0x9be7, 0x8db3, 0xa217, 0x98a3, 0x9d31, 0x9037, 0x9ff7, 0x9565, 0x9b25, 0x89e7, 0xa343, 0x99d7, 0x9ebf, 0x9285, 0xa139, 0x9751, 0x9c1b, 0x8e3b, 0xb761, 0x98e5, 0x9d81, 0x90af, 0xa041, 0x95d3, 0x9b51, 0x8ae5, 0xa2a1, 0x993f, 0x9e2d, 0x919b, 0xa0ad, 0x968f, 0x9bc1, 0x8d43, 0xa1d9, 0x97cf, 0x9cf1, 0x8f2b, 0x9fb7, 0x936f, 0x9aff, 0x8927, 0xb603, 0xa399, 0x9a45, 0xb3d7, 0x9f4b, 0xaa45, 0x930d, 0xb4f5, 0xa1b3, 0xad77, 0x979b, 0xb1a1, 0x9cb7, 0xa703, 0x8ebb, 0xb58d, 0xa25f, 0xaeed, 0x9905, 0xb259, 0x9e09, 0xa8d1, 0x9135, 0xb44d, 0xa06f, 0xac05, 0x9637, 0xb0c5, 0x9b85, 0xa53d, 0x8cdf, 0xb5d9, 0xa2f7, 0xaf37, 0x9997, 0xb357, 0x9e6d, 0xa9af, 0x921d, 0xb4a5, 0xa10f, 0xac95, 0x970b, 0xb121, 0x9bf5, 0xa6b1, 0x8dc1, 0xb575, 0xa225, 0xae37, 0x98b1, 0xb1e7, 0x9d3f, 0xa7fb, 0x9045, 0xb407, 0xa005, 0xaadb, 0x9573, 0xb01d, 0x9b33, 0xa427, 0x89f5, 0xb741, 0xa351, 0xaf55, 0x99e5, 0xb3b3, 0x9ecd, 0x9293, 0xb4d7, 0xa147, 0xacd1, 0x975f, 0xb143, 0x9c29, 0xb661, 0x8e49, 0x88dd, 0xb213, 0x9d8f, 0xa891, 0x90bd, 0xb429, 0xa04f, 0xab9f, 0x95e1, 0xb05f, 0x9b5f, 0xa4bd, 0x8af3, 0xb5c5, 0xa2a7, 0xaf0f, 0x994d, 0xb321, 0x9e3b, 0xa97d, 0x91a9, 0xa0bb, 0xac35, 0x969d, 0xb0ff, 0x9bcf, 0xa5f5, 0x8d51, 0xb519, 0xa1e7, 0xadfb, 0x97dd, 0xb1cd, 0x9cff, 0xa76d, 0x8f39, 0xb3f3, 0x9fc5, 0xaa9b, 0x937d, 0xafa1, 0x9b0d, 0xa3c9, 0x8935, 0xa3a7, 0x9a53, 0x9f59, 0xaa79, 0x931b, 0xad9f, 0x97a9, 0xa731, 0x8ec9, 0xa26d, 0x9913, 0xb2d3, 0x9e17, 0xa8eb, 0xa94d, 0x9143, 0xb453, 0xa07d, 0xb5cb, 0xac11, 0x9645, 0xa551, 0x8ced, 0xa305, 0x99a5, 0x9e7b, 0xa9d9, 0x922b, 0xb4af, 0xa11d, 0xacb5, 0x9719, 0x9c03, 0xa6db, 0x8dcf, 0xa233, 0xae93, 0xaecd, 0x98bf, 0x9d4d, 0xa85b, 0x9053, 0xab39, 0xab89, 0x9581, 0xb025, 0x9b41, 0xa487, 0x8a03, 0xa35f, 0x99f3, 0x9edb, 0xaa39, 0x92a1, 0xa155, 0xacf3, 0x976d, 0x9c37, 0xa6eb, 0x8e57, 0x9d9d, 0xa8bb, 0x90cb, 0xa05d, 0xaba5, 0xabdd, 0x95ef, 0xa517, 0xa52b, 0x8b01, 0xa2b5, 0x995b, 0x9e49, 0xb641, 0x91b7, 0xa0c9, 0x96ab, 0xa651, 0x8d5f, 0xa1f5, 0xae0b, 0x97eb, 0x9d0d, 0xa795, 0x8f47, 0x9fd3, 0xaaaf, 0x938b, 0xa3fb, 0x8943, 0x9ab1, 0xb3c7, 0x9329, 0xa2a3, 0xa273, 0xb2e7, 0xa90b, 0x9151, 0xa0a5, 0xa08b, 0x9653, 0xa5bf, 0x8cfb, 0x9239, 0x9727, 0x8ddd, 0x9d83, 0x9061, 0xab59, 0x958f, 0x8a11, 0x92af, 0xa161, 0x977b, 0x9c91, 0x8e65, 0x90d9, 0xb6f1, 0x95fd, 0xab91, 0x8b0f, 0xa2c5, 0x91c5, 0x96b9, 0xa65d, 0x8d6d, 0x97f9, 0xa7af, 0x8f55, 0xaab5, 0x9399, 0x894f, 0x9ac7, 0xa2d9, 0xa287, 0xa915, 0xa5c7, 0xa5d1, 0x8a17, 0xa16b, 0xb68d, 0xb707, 0x8b81, 0x96c1, 0x985f, 0xa7c5, 0x8fad, 0x9411, 0x9acd, 0xa5e4, 0x8a21, 0xa175, 0x8b99, 0x9867, 0x9871, 0x8fb1, 0x9469, 0x8a2b, 0x8b9d, 0x9884, 0x946d, 0x8a35, 0x8bf9, 0x94d5, 0x8c13, 0x94e9, 0x8c25, 0x94fd, 0x8c3d, 0x9527, 0x8c61, 0x8c71]
+  Calling convention: None
+35491 Function sub_8aa3 [35491]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8aa3]
+  Calling convention: None
+35627 Function sub_8b2b [35627]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8b2b]
+  Calling convention: None
+35747 Function sub_8ba3 [35747]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8ba3]
+  Calling convention: None
+36331 Function sub_8deb [36331]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8deb]
+  Calling convention: None
+36599 Function sub_8ef7 [36599]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8ef7]
+  Calling convention: None
+36695 Function sub_8f57 [36695]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x8f57]
+  Calling convention: None
+37723 Function sub_935b [37723]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x935b]
+  Calling convention: None
+37907 Function sub_9413 [37907]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x9413]
+  Calling convention: None
+38015 Function sub_947f [38015]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x947f]
+  Calling convention: None
+38519 Function sub_9677 [38519]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x9677, 0x96eb]
+  Calling convention: None
+38920 Function sub_9808 [38920]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x9808, 0x980c, 0x9810, 0x9814, 0x9818, 0x981c, 0x9820, 0x9824, 0x9828, 0x982c, 0x9830, 0x9834, 0x9838, 0x983c, 0x9840, 0x9844, 0x9848, 0x984c, 0x9850, 0x9854, 0x9858, 0x985c]
+  Calling convention: None
+39055 Function sub_988f [39055]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x988f]
+  Calling convention: None
+39456 Function sub_9a20 [39456]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x9a20]
+  Calling convention: None
+39515 Function sub_9a5b [39515]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x9a5b]
+  Calling convention: None
+39863 Function sub_9bb7 [39863]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x9bb7]
+  Calling convention: None
+39995 Function sub_9c3b [39995]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x9c3b]
+  Calling convention: None
+40163 Function sub_9ce3 [40163]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x9ce3]
+  Calling convention: None
+40235 Function sub_9d2b [40235]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x9d2b]
+  Calling convention: None
+40311 Function sub_9d77 [40311]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x9d77]
+  Calling convention: None
+41015 Function sub_a037 [41015]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xa037]
+  Calling convention: None
+41419 Function sub_a1cb [41419]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xa1cb]
+  Calling convention: None
+42176 Function sub_a4c0 [42176]
+  Syscall: False
+  SP difference: 0
+  Has return: True
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xa4c0, 0xa4c4, 0xa4c8, 0xa4cc, 0xa4d0, 0xa4d4, 0xa4d8, 0xa4dc, 0xa4e0, 0xa4e4, 0xa4e8, 0xa4ec, 0xa4f0, 0xa4f4, 0xa4f8, 0xa4fc, 0xa500, 0xa504, 0xa508, 0xa50c, 0xa510, 0xa514]
+  Calling convention: None
+42344 Function sub_a568 [42344]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xa568, 0xa56c, 0xa570, 0xa574, 0xa578, 0xa57c, 0xa580, 0xa584, 0xa588, 0xa58c, 0xa590, 0xa594, 0xa598, 0xa59c, 0xa5a0, 0xa5a4, 0xa5a8, 0xa5ac, 0xa5b0, 0xa5b4, 0xa5b8, 0xa5bc]
+  Calling convention: None
+42479 Function sub_a5ef [42479]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xa5ef]
+  Calling convention: None
+42491 Function sub_a5fb [42491]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xa5fb]
+  Calling convention: None
+42652 Function sub_a69c [42652]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xa69c, 0xa6a8, 0xa6ac]
+  Calling convention: None
+42843 Function sub_a75b [42843]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xa75b]
+  Calling convention: None
+43567 Function sub_aa2f [43567]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xaa2f]
+  Calling convention: None
+43747 Function sub_aae3 [43747]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xaae3]
+  Calling convention: None
+43979 Function sub_abcb [43979]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xabcb]
+  Calling convention: None
+44128 Function sub_ac60 [44128]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xac60]
+  Calling convention: None
+44175 Function sub_ac8f [44175]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xac8f]
+  Calling convention: None
+44604 Function sub_ae3c [44604]
+  Syscall: False
+  SP difference: 0
+  Has return: True
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xae3c, 0xae40, 0xae44, 0xae48, 0xae4c, 0xae50, 0xae54, 0xae58, 0xae5c, 0xae60, 0xae64, 0xae68, 0xae6c, 0xae70, 0xae74, 0xae78, 0xae7c, 0xae80, 0xae84, 0xae88, 0xae8c, 0xae90]
+  Calling convention: None
+44923 Function sub_af7b [44923]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xaf7b]
+  Calling convention: None
+45059 Function sub_b003 [45059]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xb003]
+  Calling convention: None
+45692 Function sub_b27c [45692]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xb27c, 0xb280, 0xb284, 0xb288, 0xb28c, 0xb290, 0xb294, 0xb298, 0xb29c, 0xb2a0, 0xb2a4, 0xb2a8, 0xb2ac, 0xb2b0, 0xb2b4, 0xb2b8, 0xb2bc, 0xb2c0, 0xb2c4, 0xb2c8, 0xb2cc, 0xb2d0]
+  Calling convention: None
+46216 Function sub_b488 [46216]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xb488, 0xb48c, 0xb490, 0xb498, 0xb49c, 0xb4a0]
+  Calling convention: None
+46999 Function sub_b797 [46999]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0xb797, 0xb79b]
+  Calling convention: None
+2101316 Function UnresolvableJumpTarget [2101316]
+  Syscall: False
+  SP difference: 0
+  Has return: False
+  Returning: False
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x201044]
+  Calling convention: <SimCCARM: None->None, sp_delta=None>
+4195064 Function sys_380 [4195064]
+  Syscall: True
+  SP difference: 0
+  Has return: True
+  Returning: True
+  Alignment: False
+  Arguments: reg: [], stack: []
+  Blocks: [0x4002f8]
+  Calling convention: None
